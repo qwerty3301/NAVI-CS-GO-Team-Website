@@ -1,8 +1,8 @@
 NAVI CS:GO Team Website
 
 
-🚀 Project Description
-This is a single-page website about the NAVI CS:GO team, created as a learning project to practice HTML, CSS, and JavaScript. The website showcases the team's history, current roster, and sponsors, all presented on a clean and responsive interface.
+🚀 Project Description:
+- This is a single-page website about the NAVI CS:GO team, created as a learning project to practice HTML, CSS, and JavaScript. The website showcases the team's history, current roster, and sponsors, all presented on a clean and responsive interface.
 
 
 🛠️ Technologies Used:
