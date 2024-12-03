@@ -20,15 +20,6 @@ Introduction Section:
 - Fully optimized for desktop, tablet, and mobile devices.
 
 
-
-⚙️ How to Run the Project 
-
-Clone the repository:
-- git clone https://github.com/qwerty3301/NAVI-CS-GO-Team-Website.git
-- Open the index.html file in any modern web browser.
-
-
-
 🖼️ Screenshots:
 ![image](https://github.com/user-attachments/assets/bf31e2cd-26c2-4fdd-af7f-676b129f4f5e)
 
